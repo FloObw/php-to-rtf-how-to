@@ -1,4 +1,4 @@
-php-to-rtf-how-to
+Php to RTF How To
 =================
 
 PHP rtfclass
