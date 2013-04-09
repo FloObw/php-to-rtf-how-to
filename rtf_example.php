@@ -1,5 +1,5 @@
   <?php
-		include('/lib/rtfclass.php');
+	include('/lib/rtfclass.php');
 
         $text = new rtf ('This is my first blind text');
         $text->output("html");
